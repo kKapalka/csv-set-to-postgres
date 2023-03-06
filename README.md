@@ -10,7 +10,7 @@ Run it once, leave it, and have your data stored neatly in the database.
 
 ## How to use
 
-- In line 10, change the line with the example Postgres connection data into your own database
+- In line 9, change the line with the example Postgres connection data into your own database
 - Move the script where your CSV files are
 - Run the script
 
